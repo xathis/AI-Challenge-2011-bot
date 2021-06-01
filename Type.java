@@ -2,6 +2,8 @@ import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.Map;
 
+// Comment
+
 public enum Type {
 	
 	UNSEEN (-4, '?'),
